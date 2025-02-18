@@ -1,0 +1,5 @@
+- Construir uma API        OK
+- Conexão com o Banco de Dados OK
+- Conectar o Front com o Back OK
+- Lógica do Player OK
+- GitHub e Deploy
